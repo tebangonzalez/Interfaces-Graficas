@@ -1,4 +1,4 @@
-//Sum program using JOptionPane for input and output.
+//Sum program using JOptionPane for input and output..
 import javax.swing.JOptionPane;
 
 public class Suma {
